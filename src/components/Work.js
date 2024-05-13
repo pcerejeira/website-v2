@@ -31,7 +31,7 @@ const Work = () => {
             <div className="section-title">
               <h3 className="dark-color text-uppercase">LATEST WORKS</h3>
               <p className="text-uppercase small">
-                A Lead UX &amp; UI designer based in Canada
+                A Tech Consultant based in Portugal
               </p>
             </div>
           </div>

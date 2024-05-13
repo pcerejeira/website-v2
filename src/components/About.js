@@ -7,7 +7,7 @@ const About = () => {
             <div className="section-title">
               <h3 className="dark-color text-uppercase">ABOUT ME</h3>
               <p className="text-uppercase small">
-                A Lead UX &amp; UI designer based in Canada
+                A Tech Consultant based in Portugal
               </p>
             </div>
           </div>
@@ -34,10 +34,10 @@ const About = () => {
           </div>
           <div className="col-lg-7 m-15px-tb">
             <div className="about-me">
-              <h4>I'M Tony Smith</h4>
+              <h4>I'M Pedro Cerejeira</h4>
               <h6>
-                A Lead <span className="theme-color">UX &amp; UI</span> designer
-                based in <span className="theme-color">Canada</span>
+                A Tech <span className="theme-color">Consultant </span>
+                based in <span className="theme-color">Portugal</span>
               </h6>
               <p>
                 I design and develop services for customers of all sizes,

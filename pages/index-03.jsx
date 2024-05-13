@@ -1,5 +1,5 @@
 import About from "@/src/components/About";
-import Blog from "@/src/components/Blog";
+//import Blog from "@/src/components/Blog";
 import Contact from "@/src/components/Contact";
 import Skills from "@/src/components/Skills";
 import Testiminails from "@/src/components/Testiminails";
@@ -23,9 +23,9 @@ const Index3 = () => {
             <div className="col-md-6">
               <div className="ht-text">
                 <h6>Hello there...</h6>
-                <h1>Tony Smith</h1>
+                <h1>Pedro Cerejeira</h1>
                 <h2>
-                  I Am Passionate <TypingAnimation />
+                  I Am an Experienced <TypingAnimation />
                 </h2>
                 <p>
                   The namics of how users interact with interactive elements
@@ -43,7 +43,7 @@ const Index3 = () => {
               </div>
             </div>
             <div className="col-md-6">
-              <img src="static/img/home-about.png" alt="image" />
+              <img src="static/img/home-about.png" alt="image"/>
             </div>
           </div>
         </div>
@@ -71,7 +71,7 @@ const Index3 = () => {
       <Testiminails />
       {/* End Testiminails */}
       {/* Blog */}
-      <Blog />
+      {/* <Blog /> */}
       {/* End Blog */}
       <Contact />
     </Layout>
