@@ -26,10 +26,10 @@ const Contact = () => {
     } else {
       emailjs
         .send(
-          "service_seruhwu", // service id
-          "template_21aw58z", // template id
+          "gmail", // service id
+          "template_e1grf3t", // template id
           mailData,
-          "Q3pccdLZhU-mZT7tQ" // public api
+          "84s82W1RGE8hBePBn" // public api
         )
         .then(
           (response) => {
