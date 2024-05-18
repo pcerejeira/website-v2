@@ -67,7 +67,7 @@ const Header = ({ headerColor, isTransparent }) => {
                   </a>
                 </li> */}
                 <li>
-                  <a className="nav-link" href="#contactus">
+                  <a className="nav-link" href="#contact">
                     Contact
                   </a>
                 </li>

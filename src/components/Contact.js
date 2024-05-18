@@ -49,7 +49,7 @@ const Contact = () => {
 
   console.log(error);
   return (
-    <section id="contactus" className="section gray-bg">
+    <section id="contact" className="section gray-bg">
       <div className="container">
         <div className="row sm-m-25px-b m-35px-b">
           <div className="col-md-12">
@@ -65,7 +65,6 @@ const Contact = () => {
         <div className="row justify-content-center">
           <div className="col-lg-8 m-15px-tb">
             <div className="contact-form box-shadow">
-              <h4 className="dark-color font-alt m-20px-b">Say Something</h4>
               <form onSubmit={(e) => onSubmit(e)} className="row">
                 <div className="col-md-6">
                   <div className="form-group">
@@ -160,9 +159,11 @@ const Contact = () => {
                 <i className="ti-location-pin" />
               </div>
               <div className="media-body">
-                <h6 className="dark-color font-alt">Our Address</h6>
+                <h6 className="dark-color font-alt">Office</h6>
                 <p>
-                  123 Stree New York City , United States Of America 750065.
+                  Rua Cidade da Beira 108
+                  <br />
+                  Porto, Portugal
                 </p>
               </div>
             </div>
@@ -171,11 +172,9 @@ const Contact = () => {
                 <i className="ti-mobile" />
               </div>
               <div className="media-body">
-                <h6 className="dark-color font-alt">Our Phone</h6>
+                <h6 className="dark-color font-alt">Phone</h6>
                 <p>
-                  Office: +004 44444 44444
-                  <br />
-                  Office: +004 44444 44444
+                  (+351) 934 754 133
                   <br />
                 </p>
               </div>
@@ -185,11 +184,10 @@ const Contact = () => {
                 <i className="ti-email" />
               </div>
               <div className="media-body">
-                <h6 className="dark-color font-alt">Our Email</h6>
+                <h6 className="dark-color font-alt">Email</h6>
                 <p>
-                  info@domainname.com
+                  pcerejeira@gmail.com
                   <br />
-                  contact@domainname.com
                 </p>
               </div>
             </div>

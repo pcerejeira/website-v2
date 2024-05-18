@@ -28,15 +28,15 @@ const Index3 = () => {
                   I Am an Experienced <TypingAnimation />
                 </h2>
                 <p>
-                  The namics of how users interact with interactive elements
-                  within a user interface flow chart based on container
-                  proportion.
+                  Crafting seamless digital experiences fueled by passion, 
+                  expertise, and a data-driven mindset. Let's transform ideas 
+                  into impactful realities.
                 </p>
                 <div className="btn-bar go-to">
                   <a className="m-btn m-btn-theme" href="#work">
                     my work
                   </a>
-                  <a className="m-btn m-btn-t-theme" href="#contactus">
+                  <a className="m-btn m-btn-t-theme" href="#contact">
                     Hire Me
                   </a>
                 </div>

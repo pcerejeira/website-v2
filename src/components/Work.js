@@ -45,8 +45,8 @@ const Work = () => {
                 <img src="static/img/portfolio-1.jpg" alt="image" />
               </div>
               <div className="portfolio-info">
-                <h5>Our Photography</h5>
-                <span>Design</span>
+                <h5>Building</h5>
+                <span></span>
               </div>
               <a className="link-overlay" href="#" />
             </div>
@@ -58,8 +58,8 @@ const Work = () => {
                 <img src="static/img/portfolio-6.jpg" alt="image" />
               </div>
               <div className="portfolio-info">
-                <h5>Our Photography</h5>
-                <span>Design</span>
+                <h5>Building</h5>
+                <span></span>
               </div>
               <a className="link-overlay" href="#" />
             </div>
@@ -71,8 +71,8 @@ const Work = () => {
                 <img src="static/img/portfolio-2.jpg" alt="image" />
               </div>
               <div className="portfolio-info">
-                <h5>Our Photography</h5>
-                <span>Design</span>
+                <h5>Building</h5>
+                <span></span>
               </div>
               <a className="link-overlay" href="#" />
             </div>
@@ -84,8 +84,8 @@ const Work = () => {
                 <img src="static/img/portfolio-3.jpg" alt="image" />
               </div>
               <div className="portfolio-info">
-                <h5>Our Photography</h5>
-                <span>Design</span>
+                <h5>Building</h5>
+                <span></span>
               </div>
               <a className="link-overlay" href="#" />
             </div>
@@ -97,8 +97,8 @@ const Work = () => {
                 <img src="static/img/portfolio-4.jpg" alt="image" />
               </div>
               <div className="portfolio-info">
-                <h5>Our Photography</h5>
-                <span>Design</span>
+                <h5>Building</h5>
+                <span></span>
               </div>
               <a className="link-overlay" href="#" />
             </div>
@@ -110,8 +110,8 @@ const Work = () => {
                 <img src="static/img/portfolio-5.jpg" alt="image" />
               </div>
               <div className="portfolio-info">
-                <h5>Our Photography</h5>
-                <span>Design</span>
+                <h5>Building</h5>
+                <span></span>
               </div>
               <a className="link-overlay" href="#" />
             </div>

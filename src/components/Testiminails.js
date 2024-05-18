@@ -24,15 +24,13 @@ const Testiminails = () => {
               </div>
               <div className="media-body p-25px-l">
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Ut enim ad minim veniam.
+                  Building...
                 </p>
                 <div className="tc-info">
                   <h6 className="font-alt dark-color font-w-600">
-                    Nancy Bayers
+                    
                   </h6>
-                  <span>Co-founder</span>
+                  <span></span>
                 </div>
               </div>
             </div>
@@ -46,15 +44,13 @@ const Testiminails = () => {
               </div>
               <div className="media-body p-25px-l">
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Ut enim ad minim veniam.
+                  Building...
                 </p>
                 <div className="tc-info">
                   <h6 className="font-alt dark-color font-w-600">
-                    Nancy Bayers
+                  
                   </h6>
-                  <span>Co-founder</span>
+                  <span></span>
                 </div>
               </div>
             </div>
@@ -68,15 +64,13 @@ const Testiminails = () => {
               </div>
               <div className="media-body p-25px-l">
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Ut enim ad minim veniam.
+                  Building...
                 </p>
                 <div className="tc-info">
                   <h6 className="font-alt dark-color font-w-600">
-                    Nancy Bayers
+                    
                   </h6>
-                  <span>Co-founder</span>
+                  <span></span>
                 </div>
               </div>
             </div>
@@ -90,15 +84,13 @@ const Testiminails = () => {
               </div>
               <div className="media-body p-25px-l">
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Ut enim ad minim veniam.
+                  Building...
                 </p>
                 <div className="tc-info">
                   <h6 className="font-alt dark-color font-w-600">
-                    Nancy Bayers
+                    
                   </h6>
-                  <span>Co-founder</span>
+                  <span></span>
                 </div>
               </div>
             </div>
