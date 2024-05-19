@@ -17,13 +17,12 @@ const Services = () => {
           <div className="col-sm-6 col-lg-4 m-15px-tb">
             <div className="feature-box-1 box-shadow-lg">
               <div className="icon">
-                <i className="icon-desktop" />
+                <i className="icon-presentation" />
               </div>
               <div className="feature-content">
-                <h5>Unique design</h5>
+                <h5>Data Analytics & Business Intelligence</h5>
                 <p>
-                  I design and develop services for customers of all sizes,
-                  specializing in creating stylish, modern websites.
+                  Transforming data into actionable insights for strategic decisions.
                 </p>
               </div>
             </div>
@@ -33,13 +32,12 @@ const Services = () => {
           <div className="col-sm-6 col-lg-4 m-15px-tb">
             <div className="feature-box-1 box-shadow-lg">
               <div className="icon">
-                <i className="icon-pricetags" />
+                <i className="icon-gears" />
               </div>
               <div className="feature-content">
-                <h5>Different Layout</h5>
+                <h5>AI & Machine Learning Solutions</h5>
                 <p>
-                  I design and develop services for customers of all sizes,
-                  specializing in creating stylish, modern websites.
+                  Building custom AI and machine learning models to solve business challenges.
                 </p>
               </div>
             </div>
@@ -49,13 +47,12 @@ const Services = () => {
           <div className="col-sm-6 col-lg-4 m-15px-tb">
             <div className="feature-box-1 box-shadow-lg">
               <div className="icon">
-                <i className="icon-chat" />
+                <i className="icon-hourglass" />
               </div>
               <div className="feature-content">
-                <h5>Make it Simple</h5>
+                <h5>Workflow Automation</h5>
                 <p>
-                  I design and develop services for customers of all sizes,
-                  specializing in creating stylish, modern websites.
+                  Automating workflows and connecting your applications to boost efficiency and productivity.
                 </p>
               </div>
             </div>
@@ -65,13 +62,12 @@ const Services = () => {
           <div className="col-sm-6 col-lg-4 m-15px-tb">
             <div className="feature-box-1 box-shadow-lg">
               <div className="icon">
-                <i className="icon-mobile" />
+                <i className="icon-layers" />
               </div>
               <div className="feature-content">
-                <h5>Responsiveness</h5>
+                <h5>API & Database Development</h5>
                 <p>
-                  I design and develop services for customers of all sizes,
-                  specializing in creating stylish, modern websites.
+                  Developing custom APIs and optimizing databases for seamless data exchange.
                 </p>
               </div>
             </div>
@@ -81,13 +77,12 @@ const Services = () => {
           <div className="col-sm-6 col-lg-4 m-15px-tb">
             <div className="feature-box-1 box-shadow-lg">
               <div className="icon">
-                <i className="icon-target" />
+                <i className="icon-lightbulb" />
               </div>
               <div className="feature-content">
-                <h5>Testing for Perfection</h5>
+                <h5>Salesforce Solutions</h5>
                 <p>
-                  I design and develop services for customers of all sizes,
-                  specializing in creating stylish, modern websites.
+                  Implementing and customizing Salesforce to enhance CRM capabilities.
                 </p>
               </div>
             </div>
