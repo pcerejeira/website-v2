@@ -17,12 +17,27 @@ const Services = () => {
           <div className="col-sm-6 col-lg-4 m-15px-tb">
             <div className="feature-box-1 box-shadow-lg">
               <div className="icon">
+                <i className="icon-magnifying-glass" />
+              </div>
+              <div className="feature-content">
+                <h5>Data Analytics</h5>
+                <p>
+                  Collecting and analyzing data to uncover insights and drive strategic decision-making.
+                </p>
+              </div>
+            </div>
+          </div>
+          {/* / */}
+          {/* feaure box */}
+          <div className="col-sm-6 col-lg-4 m-15px-tb">
+            <div className="feature-box-1 box-shadow-lg">
+              <div className="icon">
                 <i className="icon-presentation" />
               </div>
               <div className="feature-content">
-                <h5>Data Analytics & Business Intelligence</h5>
+                <h5>Business Intelligence</h5>
                 <p>
-                  Transforming data into actionable insights for strategic decisions.
+                  Creating interactive KPI dashboards for informed decision-making and business growth.
                 </p>
               </div>
             </div>
@@ -83,22 +98,6 @@ const Services = () => {
                 <h5>Salesforce Solutions</h5>
                 <p>
                   Implementing and customizing Salesforce to enhance CRM capabilities.
-                </p>
-              </div>
-            </div>
-          </div>
-          {/* / */}
-          {/* feaure box */}
-          <div className="col-sm-6 col-lg-4 m-15px-tb">
-            <div className="feature-box-1 box-shadow-lg">
-              <div className="icon">
-                <i className="icon-tools-2" />
-              </div>
-              <div className="feature-content">
-                <h5>Advanced Options</h5>
-                <p>
-                  I design and develop services for customers of all sizes,
-                  specializing in creating stylish, modern websites.
                 </p>
               </div>
             </div>
