@@ -5898,6 +5898,11 @@ h6 {
 .about-me .about-list {
   padding-top: 10px;
 }
+.about-me .certification-logo {
+  width: 65%;
+  height: auto;
+  padding-top: 30px;
+}
 .about-me .media {
   padding: 6px 0;
   line-height: normal;

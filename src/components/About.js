@@ -15,19 +15,16 @@ const About = () => {
         <div className="row align-items-center">
           <div className="col-lg-5 m-15px-tb">
             <div className="about-me-img box-shadow">
-              <img src="static/img/about-us.jpg" alt="image" />
+              <img src="static/img/Deloitte.jpg" alt="image" />
               <div className="nav social-icon">
-                <a href="#">
-                  <i className="fab fa-facebook-f" />
-                </a>
-                <a href="#">
-                  <i className="fab fa-twitter" />
-                </a>
-                <a href="#">
-                  <i className="fab fa-instagram" />
-                </a>
-                <a href="#">
+                <a href="https://www.linkedin.com/in/pedrocerejeira/" target="_blank">
                   <i className="fab fa-linkedin-in" />
+                </a>
+                <a href="https://www.salesforce.com/trailblazer/pcerejeira" target="_blank">
+                  <i className="fab fa-salesforce" />
+                </a>
+                <a href="https://github.com/pcerejeira/Portfolio" target="_blank">
+                  <i className="fab fa-github" />
                 </a>
               </div>
             </div>
@@ -40,54 +37,28 @@ const About = () => {
                 based in <span className="theme-color">Portugal</span>
               </h6>
               <p>
-                I design and develop services for customers of all sizes,
-                specializing in creating stylish, modern websites, web services
-                and online stores. My passion is to design digital user
-                experiences through the bold interface and meaningful
-                interactions. Check out my Portfolio
+                Data and AI enthusiast with experience as a Data Scientist, AI & Automation Lead, and Salesforce Consultant. 
+                <br></br>
+                I specialize in helping businesses thrive in the digital age through leveraging data, innovative technologies, and insightful visualizations. 
+                <br></br><br></br>
+                3x certified in Salesforce with broad experience implementing solutions for large international companies.
               </p>
               <div className="row about-list">
-                <div className="col-md-6">
-                  <div className="media">
-                    <label>Birthday</label>
-                    <p>4th april 1991</p>
-                  </div>
-                  <div className="media">
-                    <label>Age</label>
-                    <p>22 Yr</p>
-                  </div>
-                  <div className="media">
-                    <label>Residence</label>
-                    <p>Canada</p>
-                  </div>
-                  <div className="media">
-                    <label>Address</label>
-                    <p>California, USA</p>
+                <div className="col-md-4">
+                  <div className="certification-logo">
+                    <img src="static/img/Data Cloud Consultant.png" alt="Certificated Data Cloud Consultant" />
                   </div>
                 </div>
-                <div className="col-md-6">
-                  <div className="media">
-                    <label>E-mail</label>
-                    <p>info@domain.com</p>
-                  </div>
-                  <div className="media">
-                    <label>Phone</label>
-                    <p>820-885-3321</p>
-                  </div>
-                  <div className="media">
-                    <label>Skype</label>
-                    <p>skype.0404</p>
-                  </div>
-                  <div className="media">
-                    <label>Freelance</label>
-                    <p>Available</p>
+                <div className="col-md-4">
+                  <div className="certification-logo">
+                    <img src="static/img/Associate.png" alt="Certificated Associate" />
                   </div>
                 </div>
-              </div>
-              <div className="btn-bar">
-                <a className="m-btn m-btn-theme" href="#work">
-                  Download CV
-                </a>
+                <div className="col-md-4">
+                  <div className="certification-logo">
+                    <img src="static/img/AI Associate.png" alt="Certificated AI Associate" />
+                  </div>
+                </div>
               </div>
             </div>
           </div>
