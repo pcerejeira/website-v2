@@ -59,7 +59,7 @@ const Index3 = () => {
       <About />
       {/* end about us */}
       {/* fun */}
-      <Skills />
+      {/* <Skills /> */}
       {/* End fun */}
       {/* resume */}
       <Services />

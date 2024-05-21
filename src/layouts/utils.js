@@ -28,6 +28,9 @@ export const tony = {
           current = section.getAttribute("id");
         }
       });
+      if (!current) {
+        current = "contact"; // Default to the contact section, fixing bug
+      }
       navLi.forEach((li) => {
         let a = li.getElementsByTagName("a")[0];
         if (current !== null) {
