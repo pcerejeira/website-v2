@@ -24,7 +24,7 @@ const Work = () => {
     //     return () => isotope.current.destroy();
   }, []);
   return (
-    <section id="work" className="section">
+    <section id="work" className="section gray-bg">
       <div className="container">
         <div className="row sm-m-25px-b m-35px-b">
           <div className="col-md-12">
