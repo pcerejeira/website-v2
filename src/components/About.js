@@ -44,17 +44,17 @@ const About = () => {
                 3x certified in Salesforce with broad experience implementing solutions for large international companies.
               </p>
               <div className="row about-list">
-                <div className="col-md-4">
+                <div className="col-4">
                   <div className="certification-logo">
                     <img src="static/img/Data Cloud Consultant.png" alt="Certificated Data Cloud Consultant" />
                   </div>
                 </div>
-                <div className="col-md-4">
+                <div className="col-4">
                   <div className="certification-logo">
                     <img src="static/img/Associate.png" alt="Certificated Associate" />
                   </div>
                 </div>
-                <div className="col-md-4">
+                <div className="col-4">
                   <div className="certification-logo">
                     <img src="static/img/AI Associate.png" alt="Certificated AI Associate" />
                   </div>
