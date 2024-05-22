@@ -42,6 +42,22 @@ export default function Document() {
         />
         {/* theme css */}
         <link href="static/style/master.css" rel="stylesheet" />
+
+        {/* Google Analytics */}
+        <script
+          async
+          src={`https://www.googletagmanager.com/gtag/js?id=G-HN1XCS3DYQ`}
+        />
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+              gtag('config', 'G-HN1XCS3DYQ');
+            `,
+          }}
+        />
       </Head>
       <body>
         <Main />
