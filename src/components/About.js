@@ -41,20 +41,25 @@ const About = () => {
                 <br></br>
                 I specialize in helping businesses thrive in the digital age through leveraging data, innovative technologies, and insightful visualizations. 
                 <br></br><br></br>
-                3x certified in Salesforce with broad experience implementing solutions for large international companies.
+                4x certified in Salesforce with broad experience implementing solutions for large international companies.
               </p>
               <div className="row about-list">
-                <div className="col-4">
+              <div className="col-3">
+                  <div className="certification-logo">
+                    <img src="static/img/Administrator.png" alt="Certificated Administrator" />
+                  </div>
+                </div>
+                <div className="col-3">
                   <div className="certification-logo">
                     <img src="static/img/Data Cloud Consultant.png" alt="Certificated Data Cloud Consultant" />
                   </div>
                 </div>
-                <div className="col-4">
+                <div className="col-3">
                   <div className="certification-logo">
                     <img src="static/img/Associate.png" alt="Certificated Associate" />
                   </div>
                 </div>
-                <div className="col-4">
+                <div className="col-3">
                   <div className="certification-logo">
                     <img src="static/img/AI Associate.png" alt="Certificated AI Associate" />
                   </div>
