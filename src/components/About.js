@@ -37,31 +37,41 @@ const About = () => {
                 based in <span className="theme-color">Portugal</span>
               </h6>
               <p>
-                Data and AI enthusiast with experience as a Data Scientist, AI & Automation Lead, and Salesforce Consultant. 
+                Data and AI enthusiast with experience as a Data Scientist, AI & Automation Lead, and Salesforce Consultant.
                 <br></br>
-                I specialize in helping businesses thrive in the digital age through leveraging data, innovative technologies, and insightful visualizations. 
+                I specialize in helping businesses thrive in the digital age through leveraging data, innovative technologies, and insightful visualizations.
                 <br></br><br></br>
-                4x certified in Salesforce with broad experience implementing solutions for large international companies.
+                6x certified in Salesforce with broad experience implementing solutions for large international companies.
               </p>
               <div className="row about-list">
-              <div className="col-3">
+                <div className="col-3">
                   <div className="certification-logo">
-                    <img src="static/img/Administrator.png" alt="Certificated Administrator" />
+                    <img src="static/img/certifications/Data Cloud Consultant.png" alt="Certified Data Cloud Consultant" />
                   </div>
                 </div>
                 <div className="col-3">
                   <div className="certification-logo">
-                    <img src="static/img/Data Cloud Consultant.png" alt="Certificated Data Cloud Consultant" />
+                    <img src="static/img/certifications/Administrator.png" alt="Certified Administrator" />
                   </div>
                 </div>
                 <div className="col-3">
                   <div className="certification-logo">
-                    <img src="static/img/Associate.png" alt="Certificated Associate" />
+                    <img src="static/img/certifications/Platform App Builder.png" alt="Certified Platform App Builder" />
                   </div>
                 </div>
                 <div className="col-3">
                   <div className="certification-logo">
-                    <img src="static/img/AI Associate.png" alt="Certificated AI Associate" />
+                    <img src="static/img/certifications/Business Analyst.png" alt="Certified Business Analyst" />
+                  </div>
+                </div>
+                <div className="col-3">
+                  <div className="certification-logo">
+                    <img src="static/img/certifications/Associate.png" alt="Certified Associate" />
+                  </div>
+                </div>
+                <div className="col-3">
+                  <div className="certification-logo">
+                    <img src="static/img/certifications/AI Associate.png" alt="Certified AI Associate" />
                   </div>
                 </div>
               </div>
